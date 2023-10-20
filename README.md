@@ -14,3 +14,6 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Get request
+![image](https://github.com/suraj480/next-first-project/assets/72219318/f804f851-e781-4663-b10e-f5a7ba352457)
+
