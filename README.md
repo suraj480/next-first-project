@@ -25,5 +25,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![image](https://github.com/suraj480/next-first-project/assets/72219318/6cb52bb3-5b7f-41e5-bf51-ad43ab6d7a36)
 ![image](https://github.com/suraj480/next-first-project/assets/72219318/b2ecdd80-8e34-44cd-a6a7-d64d697aa62f)
 
+## Post request 
+![image](https://github.com/suraj480/next-first-project/assets/72219318/15403ee6-d068-4d7f-835e-2457d85cc686)
+![image](https://github.com/suraj480/next-first-project/assets/72219318/880196a6-d8c2-45ec-9d7f-aa03e5c98225)
+
 
 
