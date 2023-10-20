@@ -11,7 +11,16 @@ export function GET(request) {
 }
 
 //POST request function
-export function POST() {}
+export  async  function POST(request) {
+  const body=request.body
+  console.log(body)
+  const jsonData = await request.json();
+  console.log(jsonData);
+
+  return NextResponse.json({
+    message:"posting user data"
+  })
+}
 
 //DELETE request function
 export function DELETE(request) {
