@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 
+//GET request function
 export function GET(request) {
   const users = [
     { name: "suraj maurya", phone: "234", course: "next" },
@@ -8,7 +9,11 @@ export function GET(request) {
   ];
   return NextResponse.json(users);
 }
+
+//POST request function
 export function POST() {}
+
+//DELETE request function
 export function DELETE(request) {
   console.log("delete api called")
   return NextResponse.json({
