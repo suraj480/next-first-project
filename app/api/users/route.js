@@ -1,5 +1,8 @@
 import { NextResponse } from "next/server";
+import { connectDb } from "../../helper/db";
 
+//connecting DB
+connectDb();
 //GET request function
 export function GET(request) {
   const users = [
